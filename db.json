@@ -1,5 +1,5 @@
 {
-  "disciplinas": [
+  "livros": [
     { "id": 1, "titulo": "Alguma Poesia", "autor": "Carlos Drummond de Andrade" },
     { "id": 2, "titulo": "Mensagem", "autor": "Fernando Pessoa" },
     { "id": 3, "titulo": "Angústia", "autor": "Graciliano Ramos" },
